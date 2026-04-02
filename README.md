@@ -16,8 +16,8 @@ Fullstack developer with focus on backend systems and real-time applications.
 Build production-ready APIs, PWAs, and mobile apps from scratch.
 
 - 🔭 Currently working on **[corporate-transport](https://github.com/DNikulshin/corporate-transport)** — GPS fleet tracking (Fastify · React PWA · Expo · Redis · WebSocket)
-- 🛠️ Backend: NestJS, Fastify, Prisma, PostgreSQL, Redis
-- 🖥️ Frontend: React, Next.js 15, TypeScript, FSD, TanStack Query
+- 🛠 Backend: NestJS, Fastify, Prisma, PostgreSQL, Redis
+- 🖥 Frontend: React, Next.js 15, TypeScript, FSD, TanStack Query
 - 📱 Mobile: React Native (Expo)
 - 🐳 Infra: Docker, Caddy, Cloudflare, GitHub Actions
 
@@ -57,7 +57,7 @@ Build production-ready APIs, PWAs, and mobile apps from scratch.
 | [corporate-transport](https://github.com/DNikulshin/corporate-transport) | Fastify · React · Expo · Redis | GPS fleet tracking — monorepo with PWA + mobile app |
 | [crm-support](https://github.com/DNikulshin/crm-support) | NestJS · Prisma · React | Helpdesk CRM with roles, comments, attachments |
 | [nextjs15-crm](https://github.com/DNikulshin/nextjs15-crm) | Next.js 15 · Prisma · TanStack | Modern CRM with Server Actions |
-| [AnyWhereDesk](https://github.com/DNikulshin/AnyWhereDesk) | Docker · Caddy · Guacamole · Cloudflare DDNS | Self-hosted remote desktop — SSL, DDNS, auto-backup, staged install |
+| [AnyWhereDesk_ai](https://github.com/DNikulshin/AnyWhereDesk_ai) | Docker · Caddy · Guacamole · Cloudflare DDNS | Self-hosted remote desktop — SSL, DDNS, auto-backup, staged install |
 | [pc-remote](https://github.com/DNikulshin/pc-remote) | Fastify · Prisma · Expo · Vitest | Remote PC monitoring — monorepo (agent + backend + mobile), tests |
 | [chrome-ext-todo](https://github.com/DNikulshin/chrome-ext-todo) | React · Manifest v3 · Service Worker | Chrome extension with drag-and-drop tasks |
 
@@ -67,8 +67,8 @@ Build production-ready APIs, PWAs, and mobile apps from scratch.
 
 <div align="center">
 
-![DNikulshin's Stats](https://github-readme-stats.vercel.app/api?username=DNikulshin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![DNikulshin's Stats](https://github-readme-stats-n74r6lodr-dnikulshins-projects.vercel.app/api?username=DNikulshin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNikulshin&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats-n74r6lodr-dnikulshins-projects.vercel.app/api/top-langs/?username=DNikulshin&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 </div>
