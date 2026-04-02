@@ -67,8 +67,8 @@ Build production-ready APIs, PWAs, and mobile apps from scratch.
 
 <div align="center">
 
-![DNikulshin's Stats](https://github-readme-stats-n74r6lodr-dnikulshins-projects.vercel.app/api?username=DNikulshin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![DNikulshin's Stats](https://github-readme-stats-neon-nine-64.vercel.app/api?username=DNikulshin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-n74r6lodr-dnikulshins-projects.vercel.app/api/top-langs/?username=DNikulshin&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats-neon-nine-64.vercel.app/api/top-langs/?username=DNikulshin&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 </div>
