@@ -57,7 +57,7 @@ Build production-ready APIs, PWAs, and mobile apps from scratch.
 | [corporate-transport](https://github.com/DNikulshin/corporate-transport) | Fastify В· React В· Expo В· Redis | GPS fleet tracking вЂ” monorepo with PWA + mobile app |
 | [crm-support](https://github.com/DNikulshin/crm-support) | NestJS В· Prisma В· React | Helpdesk CRM with roles, comments, attachments |
 | [nextjs15-crm](https://github.com/DNikulshin/nextjs15-crm) | Next.js 15 В· Prisma В· TanStack | Modern CRM with Server Actions |
-| [AnyWhereDesk_ai](https://github.com/DNikulshin/AnyWhereDesk_ai) | Docker В· Caddy В· Guacamole В· Cloudflare DDNS | Self-hosted remote desktop вЂ” SSL, DDNS, auto-backup, staged install |
+| [AnyWhereDesk_ai](https://github.com/DNikulshin/AnyWhereDesk) | Docker В· Caddy В· Guacamole В· Cloudflare DDNS | Self-hosted remote desktop вЂ” SSL, DDNS, auto-backup, staged install |
 | [pc-remote](https://github.com/DNikulshin/pc-remote) | Fastify В· Prisma В· Expo В· Vitest | Remote PC monitoring вЂ” monorepo (agent + backend + mobile), tests |
 | [chrome-ext-todo](https://github.com/DNikulshin/chrome-ext-todo) | React В· Manifest v3 В· Service Worker | Chrome extension with drag-and-drop tasks |
 
