@@ -59,7 +59,7 @@ Build production-ready APIs, PWAs, and mobile apps from scratch.
 | [nextjs15-crm](https://github.com/DNikulshin/nextjs15-crm) | Next.js 15 · Prisma · TanStack | Modern CRM with Server Actions |
 | [AnyWhereDesk](https://github.com/DNikulshin/AnyWhereDesk) | Docker · Caddy · Guacamole · Cloudflare DDNS | Self-hosted remote desktop — SSL, DDNS, auto-backup, staged install |
 | [pc-remote](https://github.com/DNikulshin/pc-remote) | Fastify · Prisma · Expo · Vitest | Remote PC monitoring — monorepo (agent + backend + mobile), tests |
-| [chrome-ext-todo](https://github.com/DNikulshin/chrome-ext-todo) | React · Manifest v3 · Service Worker | Chrome extension with drag-and-drop tasks |
+| [chrome-task-manager](https://github.com/DNikulshin/chrome-task-manager) | React · Manifest v3 · Service Worker | Chrome extension with drag-and-drop tasks |
 
 ---
 
