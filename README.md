@@ -55,7 +55,7 @@ Build production-ready APIs, PWAs, and mobile apps from scratch.
 | Project | Stack | Description |
 |---|---|---|
 | [corporate-transport](https://github.com/DNikulshin/corporate-transport) | Fastify · React · Expo · Redis | GPS fleet tracking — monorepo with PWA + mobile app |
-| [crm-support](https://github.com/DNikulshin/crm-support) | NestJS · Prisma · React | Helpdesk CRM with roles, comments, attachments |
+| [support-ticketing-system](https://github.com/DNikulshin/support-ticketing-system) | NestJS · Prisma · React | Helpdesk CRM with roles, comments, attachments |
 | [nextjs15-crm](https://github.com/DNikulshin/nextjs15-crm) | Next.js 15 · Prisma · TanStack | Modern CRM with Server Actions |
 | [AnyWhereDesk](https://github.com/DNikulshin/AnyWhereDesk) | Docker · Caddy · Guacamole · Cloudflare DDNS | Self-hosted remote desktop — SSL, DDNS, auto-backup, staged install |
 | [pc-remote](https://github.com/DNikulshin/pc-remote) | Fastify · Prisma · Expo · Vitest | Remote PC monitoring — monorepo (agent + backend + mobile), tests |
