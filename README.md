@@ -17,7 +17,7 @@ Build production-ready APIs, PWAs, and mobile apps from scratch.
 
 - 🔭 Currently working on **[corporate-transport](https://github.com/DNikulshin/corporate-transport)** — GPS fleet tracking (Fastify · React PWA · Expo · Redis · WebSocket)
 - 🛠 Backend: NestJS, Fastify, Prisma, PostgreSQL, Redis
-- 🖥 Frontend: React, Next.js 15, TypeScript, FSD, TanStack Query
+- 🖥 Frontend: React, NextJS, TypeScript, FSD, TanStack Query
 - 📱 Mobile: React Native (Expo)
 - 🐳 Infra: Docker, Caddy, Cloudflare, GitHub Actions
 
@@ -56,7 +56,7 @@ Build production-ready APIs, PWAs, and mobile apps from scratch.
 |---|---|---|
 | [corporate-transport](https://github.com/DNikulshin/corporate-transport) | Fastify · React · Expo · Redis | GPS fleet tracking — monorepo with PWA + mobile app |
 | [support-ticketing-system](https://github.com/DNikulshin/support-ticketing-system) | NestJS · Prisma · React | Helpdesk CRM with roles, comments, attachments |
-| [task-management-crm](https://github.com/DNikulshin/task-management-crm) | Next.js  · Prisma · TanStack | Modern CRM with Server Actions |
+| [task-management-crm](https://github.com/DNikulshin/task-management-crm) | NextJS  · Prisma · TanStack | Modern CRM with Server Actions |
 | [AnyWhereDesk](https://github.com/DNikulshin/AnyWhereDesk) | Docker · Caddy · Guacamole · Cloudflare DDNS | Self-hosted remote desktop — SSL, DDNS, auto-backup, staged install |
 | [pc-remote](https://github.com/DNikulshin/pc-remote) | Fastify · Prisma · Expo · Vitest | Remote PC monitoring — monorepo (agent + backend + mobile), tests |
 | [chrome-task-manager](https://github.com/DNikulshin/chrome-task-manager) | React · Manifest v3 · Service Worker | Chrome extension with drag-and-drop tasks |
