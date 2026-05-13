@@ -2,7 +2,7 @@
 
 # Dmitry Nikulshin
 
-**Fullstack Developer** · Node.js · TypeScript · React
+**Fullstack Developer & AI Integrator** · TypeScript · Python · React · RAG · AI Agents
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nikulshin_dev)
 
@@ -12,18 +12,26 @@
 
 ### About
 
-Fullstack developer with focus on backend systems and real-time applications.  
-Build production-ready APIs, PWAs, and mobile apps from scratch.
+Fullstack developer and AI integrator. Build production-ready web apps, real-time systems, and AI-driven solutions — from concept to AI outcomes.
 
-- 🔭 Currently working on **[corporate-transport](https://github.com/DNikulshin/corporate-transport)** — GPS fleet tracking (Fastify · React PWA · Expo · Redis · WebSocket)
-- 🛠 Backend: NestJS, Fastify, Prisma, PostgreSQL, Redis
-- 🖥 Frontend: React, NextJS, TypeScript, FSD, TanStack Query
-- 📱 Mobile: React Native (Expo)
-- 🐳 Infra: Docker, Caddy, Cloudflare, GitHub Actions
+- 🤖 **AI:** RAG (pgvector), LLM agents (OpenAI/Claude), n8n automation, LangChain
+- ⚡ **Backend:** NestJS, Fastify, Prisma, PostgreSQL, Redis, Python
+- 🖥 **Frontend:** React, NextJS, TypeScript, FSD, TanStack Query
+- 📱 **Mobile:** React Native (Expo)
+- 🐳 **Infra:** Docker, Caddy, Cloudflare, GitHub Actions
+
+🔭 Currently focused on **[docbrain](https://github.com/DNikulshin/docbrain)** — AI assistant for corporate docs (RAG + agents) and **[scan-agent](https://github.com/DNikulshin/scan-agent)** — AI agent for freelance platforms.
 
 ---
 
 ### Tech Stack
+
+**AI / Automation**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4E1E?style=flat&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 **Backend**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -41,8 +49,7 @@ Build production-ready APIs, PWAs, and mobile apps from scratch.
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433e38?style=flat)
 
-**Mobile & Infra**  
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+**Infra**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-00ADD8?style=flat&logo=caddy&logoColor=white)
@@ -54,12 +61,12 @@ Build production-ready APIs, PWAs, and mobile apps from scratch.
 
 | Project | Stack | Description |
 |---|---|---|
+| [**docbrain**](https://github.com/DNikulshin/docbrain) | FastAPI · Next.js · pgvector · n8n | AI consultant for corporate docs — RAG, agents, hybrid search |
+| [**scan-agent**](https://github.com/DNikulshin/scan-agent) | TypeScript · Prisma · PWA · LLM | AI agent for freelance platforms — parsing, evaluation, auto-reply |
+| [**ai-automation-starter**](https://github.com/DNikulshin/ai-automation-starter) | Python · LLM · pytest | Modular AI pipeline template — data → AI → markdown → Telegram |
 | [corporate-transport](https://github.com/DNikulshin/corporate-transport) | Fastify · React · Expo · Redis | GPS fleet tracking — monorepo with PWA + mobile app |
 | [support-ticketing-system](https://github.com/DNikulshin/support-ticketing-system) | NestJS · Prisma · React | Helpdesk CRM with roles, comments, attachments |
-| [task-management-crm](https://github.com/DNikulshin/task-management-crm) | NextJS  · Prisma · TanStack | Modern CRM with Server Actions |
-| [AnyWhereDesk](https://github.com/DNikulshin/AnyWhereDesk) | Docker · Caddy · Guacamole · Cloudflare DDNS | Self-hosted remote desktop — SSL, DDNS, auto-backup, staged install |
-| [pc-remote](https://github.com/DNikulshin/pc-remote) | Fastify · Prisma · Expo · Vitest | Remote PC monitoring — monorepo (agent + backend + mobile), tests |
-| [chrome-task-manager](https://github.com/DNikulshin/chrome-task-manager) | React · Manifest v3 · Service Worker | Chrome extension with drag-and-drop tasks |
+| [AnyWhereDesk](https://github.com/DNikulshin/AnyWhereDesk) | Docker · Caddy · Guacamole | Self-hosted remote desktop — SSL, DDNS, auto-backup |
 
 ---
 
