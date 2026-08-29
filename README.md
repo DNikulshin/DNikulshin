@@ -83,7 +83,9 @@ Core principles:
 - Each microservice is an independent runtime/deployment unit.
 - Internal service structure follows `app → features → services → shared`.
 - Shared code lives in `packages` only after proven reuse.
-- 
+
+---
+
 ### GitHub Stats
 
 <div align="center">
