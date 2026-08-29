@@ -70,6 +70,20 @@ Fullstack developer and AI integrator. Build production-ready web apps, real-tim
 
 ---
 
+---
+
+### 🏛️ Architecture Pattern
+
+I design and apply the **ED Microservices Monorepo Pattern** — an approach to organizing microservices in a single monorepo with clear responsibility boundaries.
+
+📄 [Full pattern description in Wiki](https://github.com/DNikulshin/DNikulshin/wiki)
+
+Core principles:
+- Monorepo is **not a monolith**.
+- Each microservice is an independent runtime/deployment unit.
+- Internal service structure follows `app → features → services → shared`.
+- Shared code lives in `packages` only after proven reuse.
+- 
 ### GitHub Stats
 
 <div align="center">
