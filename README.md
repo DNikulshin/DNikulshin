@@ -1,97 +1,72 @@
-<div align="center">
+# Дмитрий Никульшин
 
-# Dmitry Nikulshin
+**Fullstack-разработчик.** TypeScript, Node.js, React, PostgreSQL, Python. AI-интеграции — усиление, а не вывеска.
 
-**Fullstack Developer & AI Integrator** · TypeScript · Python · React · RAG · AI Agents
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nikulshin_dev)
-
-</div>
+[Портфолио](https://dnikulshin.github.io) · [Telegram](https://t.me/nikulshin_dev) · d.nikulshin.dev@gmail.com
 
 ---
 
-### About
+## Коротко
 
-Fullstack developer and AI integrator. Build production-ready web apps, real-time systems, and AI-driven solutions — from concept to AI outcomes.
+Полтора года в найме и два года своих систем. Собираю сервисы целиком: схема данных, API, интерфейс, деплой.
+Проверяемое: **12 публичных репозиториев с настроенным CI, в 10 есть тесты**.
 
-- 🤖 **AI:** RAG (pgvector), LLM agents (OpenAI/Claude), n8n automation, LangChain
-- ⚡ **Backend:** NestJS, Fastify, Prisma, PostgreSQL, Redis, Python
-- 🖥 **Frontend:** React, NextJS, TypeScript, FSD, TanStack Query
-- 📱 **Mobile:** React Native (Expo)
-- 🐳 **Infra:** Docker, Caddy, Cloudflare, GitHub Actions
-
-🔭 Currently focused on **[docbrain](https://github.com/DNikulshin/docbrain)** — AI assistant for corporate docs (RAG + agents) and **[scan-agent](https://github.com/DNikulshin/scan-agent)** — AI agent for freelance platforms.
-
----
-
-### Tech Stack
-
-**AI / Automation**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4E1E?style=flat&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-**Backend**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433e38?style=flat)
-
-**Infra**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-00ADD8?style=flat&logo=caddy&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+| Проект | Что это | Проверка |
+| --- | --- | --- |
+| [**corporate-transport**](https://github.com/DNikulshin/corporate-transport) | Диспетчерская автопарка: координаты с телефона по WebSocket, у диспетчера карта по SSE, офлайн-очередь в IndexedDB. Fastify, React, Expo, PostgreSQL, Redis | 3 workflow · vitest · MIT |
+| [**scan-agent**](https://github.com/DNikulshin/scan-agent) | Агент мониторинга фриланс-бирж: Playwright обходит пять площадок, LLM оценивает заказы, PWA-дашборд с push и Telegram-уведомлениями | 3 workflow · MIT |
+| [**docbrain**](https://github.com/DNikulshin/docbrain) | RAG по внутренним документам: FastAPI, pgvector, парсеры PDF/DOCX/Markdown/URL, MinIO, импорт из Google Drive через n8n | 2 workflow (CI + CD) · pytest · MIT |
+| [**pc-remote**](https://github.com/DNikulshin/pc-remote) | Управление парком Windows-машин: агент-служба, очередь команд, релизы. Fastify, Prisma, Expo | 5 workflow · 8 spec-файлов · релизы |
+| [**support-ticketing-system**](https://github.com/DNikulshin/support-ticketing-system) | Helpdesk: NestJS 11, Prisma, JWT + RBAC, Swagger, React 19 на Vite | 2 workflow · unit + e2e |
+| [**AnyWhereDesk**](https://github.com/DNikulshin/AnyWhereDesk) | Self-hosted удалённый доступ к Windows: Guacamole, Caddy, HTTPS, 2FA | MIT |
 
 ---
 
-### Projects
+## Опыт
 
-| Project | Stack | Description |
-|---|---|---|
-| [**docbrain**](https://github.com/DNikulshin/docbrain) | FastAPI · Next.js · pgvector · n8n | AI consultant for corporate docs — RAG, agents, hybrid search |
-| [**scan-agent**](https://github.com/DNikulshin/scan-agent) | TypeScript · Prisma · PWA · LLM | AI agent for freelance platforms — parsing, evaluation, auto-reply |
-| [**ai-automation-starter**](https://github.com/DNikulshin/ai-automation-starter) | Python · LLM · pytest | Modular AI pipeline template — data → AI → markdown → Telegram |
-| [corporate-transport](https://github.com/DNikulshin/corporate-transport) | Fastify · React · Expo · Redis | GPS fleet tracking — monorepo with PWA + mobile app |
-| [support-ticketing-system](https://github.com/DNikulshin/support-ticketing-system) | NestJS · Prisma · React | Helpdesk CRM with roles, comments, attachments |
-| [AnyWhereDesk](https://github.com/DNikulshin/AnyWhereDesk) | Docker · Caddy · Guacamole | Self-hosted remote desktop — SSL, DDNS, auto-backup |
+**ООО «Связь Стандарт»** · июль 2023 — декабрь 2024 · Fullstack-разработчик
 
----
+Собрал с нуля внутренний helpdesk для сервисной службы. React PWA с Яндекс.Картами для распределения
+выездов, Node.js/Express и PostgreSQL на сервере, роли диспетчер / инженер / руководитель, уведомления
+о критических инцидентах. Переписал тяжёлые выборки и индексы — списки заявок с фильтрами перестали тормозить.
 
----
+**Свои системы** · декабрь 2024 — сейчас
 
-### 🏛️ Architecture Pattern
-
-I design and apply the **ED Microservices Monorepo Pattern** — an approach to organizing microservices in a single monorepo with clear responsibility boundaries.
-
-📄 [Full pattern description in Wiki](https://github.com/DNikulshin/DNikulshin/wiki)
-
-Core principles:
-- Monorepo is **not a monolith**.
-- Each microservice is an independent runtime/deployment unit.
-- Internal service structure follows `app → features → services → shared`.
-- Shared code lives in `packages` only after proven reuse.
+Проектирую и пишу сервисы целиком, от схемы БД до деплоя. Код открыт, на каждый пуш — CI.
 
 ---
 
-### GitHub Stats
+## Стек
 
-<div align="center">
+| | |
+| --- | --- |
+| **Backend** | TypeScript, Node.js, NestJS, Fastify, Python, FastAPI, SQLAlchemy + Alembic |
+| **Данные** | PostgreSQL, pgvector, Redis Pub/Sub, Prisma, SQLite, MinIO |
+| **Frontend** | React, Next.js, TanStack Query, Zustand, Tailwind CSS, React Native (Expo), PWA |
+| **AI** | RAG на pgvector, эмбеддинги и LLM через OpenRouter / DeepSeek, разбор и скоринг текста моделью |
+| **Инфраструктура** | Docker Compose, GitHub Actions, Caddy, Cloudflare, Linux VPS |
+| **Тесты** | Vitest, Jest, pytest, Playwright |
 
-![DNikulshin's Stats](https://github-readme-stats-neon-nine-64.vercel.app/api?username=DNikulshin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+---
 
-![Top Languages](https://github-readme-stats-neon-nine-64.vercel.app/api/top-langs/?username=DNikulshin&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+## Как я раскладываю код
 
-</div>
+- **Внутри сервиса** — слои `app → features → services → shared`, зависимости в одну сторону,
+  без циклов. Так устроены `corporate-transport` и этот [сайт](https://github.com/DNikulshin/dnikulshin.github.io).
+- **Монорепо** — `pnpm` workspaces: `apps/{agent,backend,mobile}` + `packages/shared` в
+  [`pc-remote`](https://github.com/DNikulshin/pc-remote). Общий код уезжает в `packages`
+  только после третьего повторения.
+- **Разбор границ ответственности** — в [вики профиля](https://github.com/DNikulshin/DNikulshin/wiki):
+  16 страниц про владение данными, направление зависимостей и анти-паттерны. Это рабочая методика,
+  а не готовый фреймворк: Turborepo там описан как следующий шаг, в проектах пока не применяется.
+
+---
+
+## Открыт к работе
+
+Продуктовые команды, где нужно довести продукт до продакшена и держать его: бэкенд, realtime,
+интеграции с LLM. Москва — офис, гибрид или удалёнка. Отвечаю в тот же день.
+
+- Telegram: [@nikulshin_dev](https://t.me/nikulshin_dev)
+- Почта: d.nikulshin.dev@gmail.com
+- Портфолио: [dnikulshin.github.io](https://dnikulshin.github.io)
